@@ -3,16 +3,18 @@
 
 /**
  * main - check the code
- * a function that swaps the value of two integers
- * @pointer : int a
- * @pointer : int b
- * 
- * Return: Always 0.
+ * a funcion that swaps the value of two integers
+ * @pointer : a
+ * @pointer : b
+ *
+ * Return: 0
  */
 int main(void)
 swap_int(int *a, int *b)
 {
-	int x = *a;
-	*a = *b;
-	*b = x;
+
+       int x = *a;
+       *a = *b;
+       *b = x;
+
 }
