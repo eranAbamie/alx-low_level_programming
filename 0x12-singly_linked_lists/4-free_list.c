@@ -1,5 +1,5 @@
-#include "lists.h"
 
+<<<<<<< HEAD
 /**
  * free_list - frees a list
  * @head: head of the linked list.
@@ -36,3 +36,5 @@ void free_list(list_t *head)
 		free(current);
 	}
 }
+=======
+>>>>>>> refs/remotes/origin/master
