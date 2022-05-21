@@ -1,1 +1,1 @@
-structure exercises
+C - Structures, typedef
